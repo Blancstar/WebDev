@@ -1,0 +1,37 @@
+
+
+body, html {
+	margin:0;
+	padding:0;
+	color:#000;
+    background:#a7a09a;
+}
+#wrap {
+	width:1000px;
+	margin:0 auto;
+	background:#99c;
+}
+#header {
+	background:#ddd;
+}
+#main {
+	float:left;
+	width:425px;
+	background:#9c9;
+}
+#tribar {
+	float:right;
+	width:250px;
+	background:#c5c;
+}
+#sidebar {
+	float:right;
+	width:250px;
+	background:#c9c;
+}
+
+#footer {
+	clear:both;
+    background:#cc9;
+
+}
